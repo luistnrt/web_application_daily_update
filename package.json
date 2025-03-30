@@ -1,0 +1,17 @@
+{
+    "name": "smart-dashboard",
+    "version": "1.0.0",
+    "description": "A sleek personal dashboard application using Electron.js",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^30.0.0"
+    },
+    "dependencies": {
+        "chart.js": "^4.4.8"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
