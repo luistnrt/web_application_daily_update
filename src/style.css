@@ -21,5 +21,19 @@ body {
   #weather {
     margin-top: 20px;
     font-size: 1.2em;
+    text-align: center;
+  }
+  
+  #weather h2 {
+    margin: 5px 0;
+  }
+  
+  #weather p {
+    margin: 2px 0;
+  }
+  
+  #weatherIcon {
+    vertical-align: middle;
+    margin-right: 10px;
   }
   
